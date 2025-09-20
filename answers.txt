@@ -26,6 +26,7 @@ and analyze drug potency.]
 
 >>>>>>> q2
 
+<<<<<<< HEAD
 
 Q3: What is the difference between Merging and Rebasing?
 
@@ -35,3 +36,9 @@ a cleaner history.]
 
 
 
+=======
+Q4: What are you looking forward to this semester?
+
+Answer: [I look forward to learning new things and gaining concrete 
+skills in data science!]
+>>>>>>> q3
