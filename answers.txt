@@ -25,3 +25,13 @@ identify trends in observations of reactions to different medical drugs
 and analyze drug potency.]
 
 >>>>>>> q2
+
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: [Merging preserves edit history, while rebasing rewrites the 
+hisory. Merging does not change existing branches, while rebasing creates 
+a cleaner history.]
+
+
+
