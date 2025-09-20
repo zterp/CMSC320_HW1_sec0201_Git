@@ -3,4 +3,12 @@ Q1: Why might we consider using Git?
 Answer: [Git allows you to track changes to code or data, provides a 
 convenient platform for collaboration, and helps ensure reproducibility.]
 
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: [It could be applied to fields that rely on data analysis to 
+resolve real-world issues. One field that fits this is the field of 
+pharmeceutical research. Data science in that field could be applied to 
+identify trends in observations of reactions to different medical drugs 
+and analyze drug potency.]
+
 
