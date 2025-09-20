@@ -25,3 +25,8 @@ identify trends in observations of reactions to different medical drugs
 and analyze drug potency.]
 
 >>>>>>> q2
+
+Q4: What are you looking forward to this semester?
+
+Answer: [I look forward to learning new things and gaining concrete 
+skills in data science!]
