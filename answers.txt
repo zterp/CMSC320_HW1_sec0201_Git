@@ -1,0 +1,6 @@
+Q1: Why might we consider using Git?
+
+Answer: [Git allows you to track changes to code or data, provides a 
+convenient platform for collaboration, and helps ensure reproducibility.]
+
+
